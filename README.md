@@ -34,6 +34,18 @@ Esta es la **versión 1.2**, que mejora la entrada de palabras ocultas (agregand
    ```bash
    git clone https://github.com/tu-usuario/JuegoAhorcado.git
 
+## Compila el código: 
+bash
+gcc ahorcado.c -o ahorcado
+
+## Ejecuta el juego: 
+
+bash
+
+./ahorcado
+
+
+
 ## Instrucciones de uso: 
 -Selecciona un modo en el menú principal: 
 1: Modo de un jugador (adivina palabras predefinidas).
